@@ -17,4 +17,4 @@ Ou baixe a pasta compactada do projeto.
 
 ## Configuração Banco de Dados
 
-Conecte o o banco de dados presente na pasta [db](http://www.google.fr/ "Named link title")
+Utilize o SQLiteStudio para adicionar o banco de dados presente na pasta [db](https://github.com/Angelo-Marcos/AplicacaoListaTarefas/blob/main/ListaDeTarefas/db/dblistatarefas.db "dblistatarefas.db") e conecte o banco caso queira ter acesso as tabelas do banco de dados.

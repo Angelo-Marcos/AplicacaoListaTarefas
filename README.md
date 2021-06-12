@@ -11,4 +11,7 @@ AplicacaoListaTarefas é um projeto cujo objetivo é adicionar tarefas em um ban
 ## Começando
 
 Faça o clone do projeto:
-> 
+> git clone https://github.com/Angelo-Marcos/AplicacaoListaTarefas.git
+Ou baixe a pasta compactada do projeto.
+
+

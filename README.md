@@ -5,13 +5,14 @@ AplicacaoListaTarefas é um projeto cujo objetivo é adicionar tarefas em um ban
 ## Requisitos
 
     Banco de Dados SQLite    
-    Java 1.8   
+    Java 8   
     Netbeans 8.2 
     
 ## Começando
 
 Faça o clone do projeto:
 > git clone https://github.com/Angelo-Marcos/AplicacaoListaTarefas.git
+
 Ou baixe a pasta compactada do projeto.
 
 

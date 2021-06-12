@@ -17,3 +17,4 @@ Ou baixe a pasta compactada do projeto.
 
 ## Configuração Banco de Dados
 
+Conecte o o banco de dados presente na pasta [db](http://www.google.fr/ "Named link title")
